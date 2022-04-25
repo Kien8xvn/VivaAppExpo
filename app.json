@@ -17,13 +17,19 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.vsp.vivaapp",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.vsp.vivaapp",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "useNextNotificationsApi": true
     },
     "web": {
       "favicon": "./assets/favicon.png"

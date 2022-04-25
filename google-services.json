@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818328131154",
+    "firebase_url": "https://test02-143ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test02-143ae",
+    "storage_bucket": "test02-143ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818328131154:android:333bd70a19905274abf18b",
+        "android_client_info": {
+          "package_name": "com.vsp.vivaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818328131154-ps9qsuao6i1o4g1uql4hsm3bo4rh4olo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAscO-s_B5wOI6wXTJ_9QfcdwlKmUNhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818328131154-ps9qsuao6i1o4g1uql4hsm3bo4rh4olo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818328131154-2fno8lhu8aen1nvf4robq1sqpsgemsde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TestFB"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
